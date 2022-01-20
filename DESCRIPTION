@@ -1,0 +1,13 @@
+Package: anthro
+Title: Calculate various z-scores, percentiles, etc. from the CDC growth charts
+Version: 0.1.0
+Author: David Freedman [aut, cre]
+Maintainer: David Freedman <dxf1@cdc.gov>
+Depends: R (>= 3.1.0), data.table
+Imports: data.table (>= 1.13.0)
+License: GPL (>=2)
+Description: Caclulate many of the newer metrics
+    discussed at the Feb 2018 meeting
+    Use four spaces when indenting paragraphs within the Description.
+Encoding: UTF-8
+LazyData: true
