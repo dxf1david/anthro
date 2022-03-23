@@ -1,5 +1,0 @@
-import(data.table)
-# importFrom(dplyr,mutate)
-importFrom(stats, approx, pnorm, qnorm, sigma)
-# import(magrittr)
-export(anthro)
